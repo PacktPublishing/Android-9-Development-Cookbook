@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/menu_cast"
+        android:title="@string/menu_cast" />
+    <item android:id="@+id/menu_print"
+        android:title="@string/menu_print" />
+</menu>

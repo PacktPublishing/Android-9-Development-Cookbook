@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerViewActionMode</string>
+    <string name="delete_all">Delete All</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ContextualMode</string>
+    <string name="menu_cast">Cast</string>
+    <string name="menu_print">Print</string>
+</resources>

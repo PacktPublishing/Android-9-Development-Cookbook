@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/buttonPlay"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="Play"
+        android:onClick="buttonPlay" />
+    <Button
+        android:text="Pause"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/buttonPause"
+        android:onClick="buttonPause"
+        app:layout_constraintTop_toBottomOf="@+id/buttonPlay"/>
+    <Button
+        android:text="Stop"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/buttonStop"
+        android:onClick="buttonStop"
+        app:layout_constraintTop_toBottomOf="@+id/buttonPause"/>
+
+</android.support.constraint.ConstraintLayout>

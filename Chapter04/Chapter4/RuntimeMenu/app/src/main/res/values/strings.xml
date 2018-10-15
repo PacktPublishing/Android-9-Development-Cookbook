@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RuntimeMenu</string>
+
+    <string name="menu_download">Download</string>
+    <string name="menu_settings">Settings</string>
+
+</resources>

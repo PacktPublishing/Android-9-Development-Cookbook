@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PopupMenu</string>
+
+    <string name="menu_reply">Reply</string>
+    <string name="menu_reply_all">Reply All</string>
+    <string name="menu_forward">Forward</string>
+
+</resources>
