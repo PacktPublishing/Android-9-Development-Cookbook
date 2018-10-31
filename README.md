@@ -1,6 +1,6 @@
 # Android 9 Application Development Cookbook, Third Edition, published by Packt
 
-<a href="<a href="https://www.packtpub.com/application-development/android-9-development-cookbook-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788991216" alt="Book Name" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/application-development/android-9-development-cookbook-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788991216" alt="Book Name" height="256px" align="right"></a>
 "><img src="https://www.packtpub.com/sites/default/files/B10863.png" alt="Book Name" height="256px" align="right"></a>
 
 This is the code repository for [Android 9 Application Development Cookbook, Third Edition](https://www.packtpub.com/application-development/android-9-development-cookbook-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788991216), published by Packt.
