@@ -49,7 +49,7 @@ With the following software and hardware list you can run all code files present
 
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
-| 1-16     | Android Studio                      | Windows, Mac OS X, and Linux (Any) |
+| 1-16     | Android Studio                      | Windows, Mac OS X, and Linux       |
 
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [https://www.packtpub.com/sites/default/files/downloads/9781788991216_ColorImages.pdf].
