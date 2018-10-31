@@ -59,13 +59,12 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
 
-## Get to Know the Author(s)
+## Get to Know the Author
 **Rick Boyer**
 Rick Boyer has been programming professionally for over 20 years. He has written apps on Windows, created websites, and coded for various mobile devices, including Windows CE, Windows Phone, and Android. Almost eight years ago, he took the plunge and started his own software consulting business, NightSky Development, focusing exclusively on Android development.
 
 ## Other books by the authors
-* [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
-* [Linux Mint Essentials](https://www.packtpub.com/networking-and-servers/linux-mint-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781782168157)
+* [Android Application Development Cookbook - Second Edition](https://www.packtpub.com/application-development/android-application-development-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781785886195)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
