@@ -1,7 +1,7 @@
 # Android 9 Application Development Cookbook, Third Edition, published by Packt
 
 <a href="https://www.packtpub.com/application-development/android-9-development-cookbook-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788991216" alt="Book Name" height="256px" align="right"></a>
-"><img src="https://www.packtpub.com/sites/default/files/B10863.png" alt="Book Name" height="256px" align="right"></a>
+<img src="https://www.packtpub.com/sites/default/files/B10863.png" alt="Book Name" height="256px" align="right"></a>
 
 This is the code repository for [Android 9 Application Development Cookbook, Third Edition](https://www.packtpub.com/application-development/android-9-development-cookbook-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788991216), published by Packt.
 
@@ -52,13 +52,7 @@ With the following software and hardware list you can run all code files present
 | 1-16     | Android Studio                      | Windows, Mac OS X, and Linux (Any) |
 
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](Graphics Bundle Link).
-
-## Code in Action
-
-Click on the following link to see the Code in Action:
-
-[Placeholder link](www.youtube.com/URL)
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [https://www.packtpub.com/sites/default/files/downloads/9781788991216_ColorImages.pdf].
 
 ### Related products <Other books you may enjoy>
 * Linux: Powerful Server Administration [[Packt]](https://www.packtpub.com/networking-and-servers/linux-powerful-server-administration?utm_source=github&utm_medium=repository&utm_campaign=9781788293778) [[Amazon]](https://www.amazon.com/dp/1788293770)
@@ -66,12 +60,8 @@ Click on the following link to see the Code in Action:
 * Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
 
 ## Get to Know the Author(s)
-**Author Name**
-Bio
-
-**Author Name**
-Bio
-
+**Rick Boyer**
+Rick Boyer has been programming professionally for over 20 years. He has written apps on Windows, created websites, and coded for various mobile devices, including Windows CE, Windows Phone, and Android. Almost eight years ago, he took the plunge and started his own software consulting business, NightSky Development, focusing exclusively on Android development.
 
 ## Other books by the authors
 * [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
